@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         gumroad auto add all to last folder
 // @namespace    https://github.com/brunoais/GumroadAutoAllToFolder/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Add all files from outside the folders into the last listed folder
 // @author       Brunoais
 // @require      https://cdn.jsdelivr.net/gh/andywer/drag-mock/dist/drag-mock.js
