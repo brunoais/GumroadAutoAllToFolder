@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         gumroad auto add all to last folder
 // @namespace    https://github.com/brunoais/GumroadAutoAllToFolder/
-// @version      1.0.2
+// @version      1.0.3
 // @description  Add all files from outside the folders into the last listed folder
 // @author       Brunoais
 // @require      https://cdn.jsdelivr.net/gh/andywer/drag-mock/dist/drag-mock.js
 // @match        https://app.gumroad.com/products/*
 // @icon         https://www.google.com/s2/favicons?domain=gumroad.com
-// @updateURL    https://github.com/brunoais/GumroadAutoAllToFolder/raw/master/gumroad%20auto%20add%20all%20to%20last%20folder.user.js
 // @downloadURL  https://github.com/brunoais/GumroadAutoAllToFolder/raw/master/gumroad%20auto%20add%20all%20to%20last%20folder.user.js
 // @supportURL   https://github.com/brunoais/GumroadAutoAllToFolder/issues
 // @grant        unsafeWindow
