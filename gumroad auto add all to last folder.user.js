@@ -7,8 +7,8 @@
 // @require      https://cdn.jsdelivr.net/gh/andywer/drag-mock/dist/drag-mock.js
 // @match        https://app.gumroad.com/products/*
 // @icon         https://www.google.com/s2/favicons?domain=gumroad.com
-// @updateURL    https://raw.githubusercontent.com/brunoais/GumroadAutoAllToFolder/master/
-// @downloadURL  https://raw.githubusercontent.com/brunoais/GumroadAutoAllToFolder/master/
+// @updateURL    https://github.com/brunoais/GumroadAutoAllToFolder/raw/master/gumroad%20auto%20add%20all%20to%20last%20folder.user.js
+// @downloadURL  https://github.com/brunoais/GumroadAutoAllToFolder/raw/master/gumroad%20auto%20add%20all%20to%20last%20folder.user.js
 // @supportURL   https://github.com/brunoais/GumroadAutoAllToFolder/issues
 // @grant        unsafeWindow
 // ==/UserScript==
